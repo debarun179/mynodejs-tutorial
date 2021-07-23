@@ -11,4 +11,4 @@ else {
 // Modules - encapsulated code (only share what is needed minimum)
 // User defined modules will be references in require as ./ while builtin modules are referenced using just the name
 // CommonJS - every file is a module by default
-
+console.log("This is being watched through nodemon")
